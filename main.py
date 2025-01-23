@@ -2,7 +2,7 @@ import telebot
 from pytube import YouTube
 
 # Replace with your Telegram Bot Token
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7697105902:AAHf9cqxbhpOiWTZqdyPKHjY8aNZwYkktMo"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Handle /start command

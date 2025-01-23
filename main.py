@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
 # Replace with your bot token
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7697105902:AAHf9cqxbhpOiWTZqdyPKHjY8aNZwYkktMo"
 
 # Initialize bot and dispatcher
 bot = Bot(token=BOT_TOKEN)

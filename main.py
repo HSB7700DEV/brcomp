@@ -5,7 +5,7 @@ from aiogram.types import Message
 from aiogram import F
 
 # Replace with your bot token
-BOT_TOKEN = "7697105902:AAHf9cqxbhpOiWTZqdyPKHjY8aNZwYkktMo"
+BOT_TOKEN = "7518154367:AAFlHoaWjCIzujGWHi9guFRHSIXpIAShf8k"
 
 # Initialize bot and dispatcher
 bot = Bot(token=BOT_TOKEN)
